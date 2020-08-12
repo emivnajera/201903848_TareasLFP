@@ -1,0 +1,8 @@
+Lenguajes Imperativo
+Un lenguaje imperativo es un tipo de lenguaje de programación. Es este tipo de lenguajes, las instrucciones se ejecutan unas tras otras, de manera secuencial, salvo cuando se encuentran estructuras de control condicionales o bucles. 
+Ejemplo: Java
+
+
+Lenguajes Declarativos
+Un lenguaje declarativo es un tipo de lenguaje de programación basado más en las matemáticas y en la lógica que los lenguajes imperativos, más cercanos estos al razonamiento humano. Los lenguajes declarativos no dicen cómo hacer una cosa, sino, más bien, qué cosa hacer.
+Ejemplo: SQL
